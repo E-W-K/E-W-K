@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @E-W-K
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python , SQL, Statistics for Data science on various Education Platforms 
+- 👀 I’m interested in Full Stack Web Development and Data Science
+- 🌱 I’m currently learning Python, SQL, Statistics for Data science on various Education Platforms 
 - 💞️ I’m looking to collaborate on GitHub 
 - 📫 How to reach me : Email @estherwangui889@gmail.com
 
