@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [fitnessedger.com](https://fitnessedger.com/)
 
-- 🌱 I’m currently learning **Full Stack Engineering**
+- 🌱 I’m currently learning **Full Stack Developer**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 🤝 I’m looking for help with **Javascript, Nodejs, MongoDB**
+- 🤝 I’m looking for help with **Front end Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/E-W-K](https://github.com/E-W-K)
 
