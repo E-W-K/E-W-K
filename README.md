@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/estherkui4" target="blank"><img src="https://img.shields.io/twitter/follow/estherkui4?logo=twitter&style=for-the-badge" alt="estherkui4" /></a> </p>
 
-- 🔭 I’m currently working on [fitnessedger.com](https://fitnessedger.com/)
+
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
@@ -21,7 +21,6 @@
 
 - 📫 How to reach me **wanguie2832gmail.com**
 
-- ⚡ Fun fact **I am an Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
